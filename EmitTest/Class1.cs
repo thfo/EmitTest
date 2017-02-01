@@ -8,5 +8,6 @@ namespace EmitTest
     class Class1
     {
         public static string s = "";
+        int i = 0;
     }
 }
